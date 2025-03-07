@@ -1,0 +1,12 @@
+C:\Users\julia\Git-projects\TirolDemo\TirolDemo\TirolDemo\obj\Debug\net9.0\TirolDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Git-projects\TirolDemo\TirolDemo\TirolDemo\obj\Debug\net9.0\TirolDemo.AssemblyInfoInputs.cache
+C:\Users\julia\Git-projects\TirolDemo\TirolDemo\TirolDemo\obj\Debug\net9.0\TirolDemo.AssemblyInfo.cs
+C:\Users\julia\Git-projects\TirolDemo\TirolDemo\TirolDemo\obj\Debug\net9.0\TirolDemo.csproj.CoreCompileInputs.cache
+C:\Users\julia\Git-projects\TirolDemo\TirolDemo\TirolDemo\obj\Debug\net9.0\TirolDemo.sourcelink.json
+C:\Users\julia\Git-projects\TirolDemo\TirolDemo\TirolDemo\bin\Debug\net9.0\TirolDemo.deps.json
+C:\Users\julia\Git-projects\TirolDemo\TirolDemo\TirolDemo\bin\Debug\net9.0\TirolDemo.dll
+C:\Users\julia\Git-projects\TirolDemo\TirolDemo\TirolDemo\bin\Debug\net9.0\TirolDemo.pdb
+C:\Users\julia\Git-projects\TirolDemo\TirolDemo\TirolDemo\obj\Debug\net9.0\TirolDemo.dll
+C:\Users\julia\Git-projects\TirolDemo\TirolDemo\TirolDemo\obj\Debug\net9.0\refint\TirolDemo.dll
+C:\Users\julia\Git-projects\TirolDemo\TirolDemo\TirolDemo\obj\Debug\net9.0\TirolDemo.pdb
+C:\Users\julia\Git-projects\TirolDemo\TirolDemo\TirolDemo\obj\Debug\net9.0\ref\TirolDemo.dll
