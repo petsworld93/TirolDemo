@@ -10,7 +10,7 @@ namespace TherapyDemo
     public sealed class TirolSoftware
     {
         // Properties
-        private static TirolSoftware _Instance;     // contains the instance of the TirolSoftware which is a singleton
+        private static TirolSoftware? _Instance;     // contains the instance of the TirolSoftware which is a singleton, allow nullable
         private SoftwareInfo _SoftwareInfo;         // contains relevant info about the software running on the device
         private List<TherapyDevice> _TherapyDevices { get; set; }   // contains all devices which are controlled by the software
 
